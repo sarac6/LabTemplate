@@ -1,0 +1,16 @@
+---
+title: "LabTemplate"
+author: "Sara Contu"
+date: "2023-01-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document is just testing how to add files to the Project template 
+
+
+questions:
+- the way i have worked so far, is creating 1 or more markdown that hold a combination of scripts and report. where would you save those? or is there a different structure i should follow? 
