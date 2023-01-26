@@ -14,3 +14,6 @@ This document is just testing how to add files to the Project template
 
 questions:
 - the way i have worked so far, is creating 1 or more markdown that hold a combination of scripts and report. where would you save those? or is there a different structure i should follow? 
+
+- do I need to create the repo on github? I did it as this was the way to link my R rpoject to github and then have the files there. 
+
